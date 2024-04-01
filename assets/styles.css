@@ -29,6 +29,10 @@ nav ul li {
     margin-right: 22.5px;
 }
 
+li > a {
+    color: #659D89;
+}
+
 li > a:visited {
     color: #659D89;
 }
@@ -37,8 +41,11 @@ li > a:hover {
     color: #5a8979;
 }
 
+
+
 a {
     text-decoration: none;
+    color: #666;
 }
 
 a:visited {
